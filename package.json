@@ -1,0 +1,28 @@
+{
+  "name": "pisteky",
+  "version": "1.0.0",
+  "description": "A simple discord chat bot for NB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./lib/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-ventura/pisteky.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "pisteky"
+  ],
+  "author": "Joao Ventura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-ventura/pisteky/issues"
+  },
+  "homepage": "https://github.com/the-ventura/pisteky#readme",
+  "dependencies": {
+    "config": "^2.0.1"
+  }
+}
