@@ -1,21 +1,24 @@
 botToken: my bot token here
 games:
-  r6s:
-    name: "Rainbow Six Siege"
-    minimumPlayers: 2
+  - name: "Rainbow Six Siege"
+    minimumPlayers: 1
     maximumPlayers: 5
     availableDays:
       - "Mon"
       - "Tue"
+      - "Wed"
       - "Thu"
+      - "Fri"
       - "Sat"
-  rocket:
-    name: "Rocket League"
-    minimumPlayers: 2
+      - "Sun"
+  - name: "Rocket League"
+    minimumPlayers: 1
     maximumPlayers: 3
     availableDays:
+      - "Mon"
+      - "Tue"
       - "Wed"
-      - "Fri"
       - "Thu"
+      - "Fri"
       - "Sat"
       - "Sun"
