@@ -22,3 +22,14 @@ games:
       - "Fri"
       - "Sat"
       - "Sun"
+  - name: "CS:GO"
+    minimumPlayers: 1
+    maximumPlayers: 5
+    availableDays:
+      - "Mon"
+      - "Tue"
+      - "Wed"
+      - "Thu"
+      - "Fri"
+      - "Sat"
+      - "Sun"
