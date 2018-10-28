@@ -1,3 +1,5 @@
+botName: Pisteky
+botVersion: 1.0
 botToken: my bot token here
 games:
   - name: "Rainbow Six Siege"
