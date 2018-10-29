@@ -5,6 +5,8 @@ games:
   - name: "Rainbow Six Siege"
     minimumPlayers: 1
     maximumPlayers: 5
+    launcher:
+      steamAppId: 359550
     availableDays:
       - "Mon"
       - "Tue"
@@ -16,6 +18,8 @@ games:
   - name: "Rocket League"
     minimumPlayers: 1
     maximumPlayers: 3
+    launcher:
+      steamAppId: 252950
     availableDays:
       - "Mon"
       - "Tue"
@@ -27,6 +31,8 @@ games:
   - name: "CS:GO"
     minimumPlayers: 1
     maximumPlayers: 5
+    launcher:
+      steamAppId: 730
     availableDays:
       - "Mon"
       - "Tue"
