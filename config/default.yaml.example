@@ -8,6 +8,8 @@ games:
     style: "Shooter"
     competitive: "yes"
     speed: 4
+    launcher:
+      steamAppId: 359550
     availableDays:
       - "Mon"
       - "Wed"
@@ -20,6 +22,8 @@ games:
     style: "Sports"
     competitive: "yes"
     speed: 5
+    launcher:
+      steamAppId: 252950
     availableDays:
       - "Tue"
       - "Wed"
@@ -65,6 +69,8 @@ games:
     style: "Strategy"
     competitive: "no"
     speed: 1
+    launcher:
+      steamAppId: 236850
     availableDays:
       - "Wed"
       - "Sat"
@@ -75,6 +81,8 @@ games:
     style: "Strategy"
     competitive: "no"
     speed: 1
+    launcher:
+      steamAppId: 394360
     availableDays:
       - "Wed"
       - "Sat"
@@ -85,6 +93,8 @@ games:
     style: "Strategy"
     competitive: "no"
     speed: 1
+    launcher:
+      steamAppId: 203770
     availableDays:
       - "Wed"
       - "Sat"
@@ -95,6 +105,8 @@ games:
     style: "Strategy"
     competitive: "no"
     speed: 1
+    launcher:
+      steamAppId: 289070
     availableDays:
       - "Wed"
       - "Sat"
@@ -105,6 +117,8 @@ games:
     style: "Sandbox"
     competitive: "no"
     speed: 3
+    launcher:
+      steamAppId: 105600
     availableDays:
       - "Mon"
       - "Thu"
@@ -114,6 +128,8 @@ games:
     style: "Sandbox"
     competitive: "no"
     speed: 3
+    launcher:
+      steamAppId: 211820
     availableDays:
       - "Tue"
       - "Fri"
@@ -123,6 +139,8 @@ games:
     style: "Sandbox"
     competitive: "no"
     speed: 3
+    launcher:
+      steamAppId: 244850
     availableDays:
       - "Thu"
       - "Sat"
@@ -133,6 +151,8 @@ games:
     style: "Sandbox"
     competitive: "no"
     speed: 2
+    launcher:
+      steamAppId: 427520
     availableDays:
       - "Mon"
       - "Tue"
@@ -144,6 +164,8 @@ games:
     style: "Strategy"
     competitive: "no"
     speed: 2
+    launcher:
+      steamAppId: 378120
     availableDays:
       - "Thu"
       - "Sat"
@@ -153,6 +175,8 @@ games:
     style: "Shooter"
     competitive: "yes"
     speed: 3
+    launcher:
+      steamAppId: 578080
     availableDays:
       - "Wed"
       - "Fri"
@@ -164,6 +188,8 @@ games:
     style: "Shooter"
     competitive: "yes"
     speed: 4
+    launcher:
+      steamAppId: 730
     availableDays:
       - "Tue"
       - "Thu"
@@ -174,9 +200,24 @@ games:
     style: "RPG"
     competitive: "no"
     speed: 2
+    launcher:
+      steamAppId: 435150
     availableDays:
       - "Tue"
       - "Thu"
       - "Sat"
       - "Sun"
+  - name: "Monster Hunter"
+    minimumPlayers: 1
+    maximumPlayers: 4
+    style: "RPG"
+    competitive: "no"
+    speed: 4
+    launcher:
+      steamAppId: 582010
+    availableDays:
+      - "Mon"
+      - "Wed"
+      - "Fri"
+      - "Sat"
 
