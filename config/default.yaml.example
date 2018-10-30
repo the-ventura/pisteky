@@ -36,6 +36,8 @@ games:
     style: "Shooter"
     competitive: "yes"
     speed: 5
+    launcher:
+      battleNetGame: Pro
     availableDays:
       - "Mon"
       - "Tue"
@@ -59,6 +61,8 @@ games:
     style: "RPG"
     competitive: "yes/no"
     speed: 4
+    launcher:
+      battleNetGame: DST2
     availableDays:
       - "Wed"
       - "Thu"
