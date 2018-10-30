@@ -5,39 +5,178 @@ games:
   - name: "Rainbow Six Siege"
     minimumPlayers: 1
     maximumPlayers: 5
-    launcher:
-      steamAppId: 359550
+    style: "Shooter"
+    competitive: "yes"
+    speed: 4
     availableDays:
       - "Mon"
-      - "Tue"
       - "Wed"
-      - "Thu"
       - "Fri"
       - "Sat"
       - "Sun"
   - name: "Rocket League"
     minimumPlayers: 1
     maximumPlayers: 3
-    launcher:
-      steamAppId: 252950
+    style: "Sports"
+    competitive: "yes"
+    speed: 5
     availableDays:
-      - "Mon"
       - "Tue"
       - "Wed"
       - "Thu"
-      - "Fri"
       - "Sat"
       - "Sun"
-  - name: "CS:GO"
+  - name: "Overwatch"
     minimumPlayers: 1
-    maximumPlayers: 5
-    launcher:
-      steamAppId: 730
+    maximumPlayers: 6
+    style: "Shooter"
+    competitive: "yes"
+    speed: 5
     availableDays:
       - "Mon"
       - "Tue"
-      - "Wed"
       - "Thu"
       - "Fri"
       - "Sat"
+  - name: "Minecraft"
+    minimumPlayers: 2
+    maximumPlayers: 10
+    style: "Sandbox"
+    competitive: "no"
+    speed: 2
+    availableDays:
+      - "Mon"
+      - "Tue"
+      - "Sat"
       - "Sun"
+  - name: "Destiny 2"
+    minimumPlayers: 2
+    maximumPlayers: 4
+    style: "RPG"
+    competitive: "yes/no"
+    speed: 4
+    availableDays:
+      - "Wed"
+      - "Thu"
+      - "Sat"
+  - name: "Europa Universalis"
+    minimumPlayers: 3
+    maximumPlayers: 10
+    style: "Strategy"
+    competitive: "no"
+    speed: 1
+    availableDays:
+      - "Wed"
+      - "Sat"
+      - "Sun"
+  - name: "Hearts of Iron"
+    minimumPlayers: 3
+    maximumPlayers: 10
+    style: "Strategy"
+    competitive: "no"
+    speed: 1
+    availableDays:
+      - "Wed"
+      - "Sat"
+      - "Sun"
+  - name: "Crusader Kings"
+    minimumPlayers: 3
+    maximumPlayers: 10
+    style: "Strategy"
+    competitive: "no"
+    speed: 1
+    availableDays:
+      - "Wed"
+      - "Sat"
+      - "Sun"
+  - name: "Civilization"
+    minimumPlayers: 3
+    maximumPlayers: 10
+    style: "Strategy"
+    competitive: "no"
+    speed: 1
+    availableDays:
+      - "Wed"
+      - "Sat"
+      - "Sun"
+  - name: "Terraria"
+    minimumPlayers: 2
+    maximumPlayers: 10
+    style: "Sandbox"
+    competitive: "no"
+    speed: 3
+    availableDays:
+      - "Mon"
+      - "Thu"
+  - name: "Starbound"
+    minimumPlayers: 2
+    maximumPlayers: 10
+    style: "Sandbox"
+    competitive: "no"
+    speed: 3
+    availableDays:
+      - "Tue"
+      - "Fri"
+  - name: "Space Engineers"
+    minimumPlayers: 2
+    maximumPlayers: 10
+    style: "Sandbox"
+    competitive: "no"
+    speed: 3
+    availableDays:
+      - "Thu"
+      - "Sat"
+      - "Sun"
+  - name: "Factorio"
+    minimumPlayers: 2
+    maximumPlayers: 10
+    style: "Sandbox"
+    competitive: "no"
+    speed: 2
+    availableDays:
+      - "Mon"
+      - "Tue"
+      - "Fri"
+      - "Sat"
+  - name: "Football Manager"
+    minimumPlayers: 2
+    maximumPlayers: 10
+    style: "Strategy"
+    competitive: "no"
+    speed: 2
+    availableDays:
+      - "Thu"
+      - "Sat"
+  - name: "PUBG"
+    minimumPlayers: 1
+    maximumPlayers: 4
+    style: "Shooter"
+    competitive: "yes"
+    speed: 3
+    availableDays:
+      - "Wed"
+      - "Fri"
+      - "Sat"
+      - "Sun"
+  - name: "CS GO"
+    minimumPlayers: 2
+    maximumPlayers: 5
+    style: "Shooter"
+    competitive: "yes"
+    speed: 4
+    availableDays:
+      - "Tue"
+      - "Thu"
+      - "Sat"
+  - name: "Divinity 2"
+    minimumPlayers: 1
+    maximumPlayers: 4
+    style: "RPG"
+    competitive: "no"
+    speed: 2
+    availableDays:
+      - "Tue"
+      - "Thu"
+      - "Sat"
+      - "Sun"
+
