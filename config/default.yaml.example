@@ -6,7 +6,7 @@ games:
     minimumPlayers: 1
     maximumPlayers: 5
     style: "Shooter"
-    competitive: "yes"
+    competitive: "true"
     speed: 4
     launcher:
       steamAppId: 359550
@@ -20,7 +20,7 @@ games:
     minimumPlayers: 1
     maximumPlayers: 3
     style: "Sports"
-    competitive: "yes"
+    competitive: "true"
     speed: 5
     launcher:
       steamAppId: 252950
@@ -34,7 +34,7 @@ games:
     minimumPlayers: 1
     maximumPlayers: 6
     style: "Shooter"
-    competitive: "yes"
+    competitive: "true"
     speed: 5
     availableDays:
       - "Mon"
@@ -46,7 +46,7 @@ games:
     minimumPlayers: 2
     maximumPlayers: 10
     style: "Sandbox"
-    competitive: "no"
+    competitive: "false"
     speed: 2
     availableDays:
       - "Mon"
@@ -57,7 +57,7 @@ games:
     minimumPlayers: 2
     maximumPlayers: 4
     style: "RPG"
-    competitive: "yes/no"
+    competitive: "false"
     speed: 4
     availableDays:
       - "Wed"
@@ -67,7 +67,7 @@ games:
     minimumPlayers: 3
     maximumPlayers: 10
     style: "Strategy"
-    competitive: "no"
+    competitive: "false"
     speed: 1
     launcher:
       steamAppId: 236850
@@ -79,7 +79,7 @@ games:
     minimumPlayers: 3
     maximumPlayers: 10
     style: "Strategy"
-    competitive: "no"
+    competitive: "false"
     speed: 1
     launcher:
       steamAppId: 394360
@@ -91,7 +91,7 @@ games:
     minimumPlayers: 3
     maximumPlayers: 10
     style: "Strategy"
-    competitive: "no"
+    competitive: "false"
     speed: 1
     launcher:
       steamAppId: 203770
@@ -103,7 +103,7 @@ games:
     minimumPlayers: 3
     maximumPlayers: 10
     style: "Strategy"
-    competitive: "no"
+    competitive: "false"
     speed: 1
     launcher:
       steamAppId: 289070
@@ -115,7 +115,7 @@ games:
     minimumPlayers: 2
     maximumPlayers: 10
     style: "Sandbox"
-    competitive: "no"
+    competitive: "false"
     speed: 3
     launcher:
       steamAppId: 105600
@@ -126,7 +126,7 @@ games:
     minimumPlayers: 2
     maximumPlayers: 10
     style: "Sandbox"
-    competitive: "no"
+    competitive: "false"
     speed: 3
     launcher:
       steamAppId: 211820
@@ -137,7 +137,7 @@ games:
     minimumPlayers: 2
     maximumPlayers: 10
     style: "Sandbox"
-    competitive: "no"
+    competitive: "false"
     speed: 3
     launcher:
       steamAppId: 244850
@@ -149,7 +149,7 @@ games:
     minimumPlayers: 2
     maximumPlayers: 10
     style: "Sandbox"
-    competitive: "no"
+    competitive: "false"
     speed: 2
     launcher:
       steamAppId: 427520
@@ -162,7 +162,7 @@ games:
     minimumPlayers: 2
     maximumPlayers: 10
     style: "Strategy"
-    competitive: "no"
+    competitive: "false"
     speed: 2
     launcher:
       steamAppId: 378120
@@ -173,7 +173,7 @@ games:
     minimumPlayers: 1
     maximumPlayers: 4
     style: "Shooter"
-    competitive: "yes"
+    competitive: "true"
     speed: 3
     launcher:
       steamAppId: 578080
@@ -186,7 +186,7 @@ games:
     minimumPlayers: 2
     maximumPlayers: 5
     style: "Shooter"
-    competitive: "yes"
+    competitive: "true"
     speed: 4
     launcher:
       steamAppId: 730
@@ -198,7 +198,7 @@ games:
     minimumPlayers: 1
     maximumPlayers: 4
     style: "RPG"
-    competitive: "no"
+    competitive: "false"
     speed: 2
     launcher:
       steamAppId: 435150
@@ -211,7 +211,7 @@ games:
     minimumPlayers: 1
     maximumPlayers: 4
     style: "RPG"
-    competitive: "no"
+    competitive: "false"
     speed: 4
     launcher:
       steamAppId: 582010
