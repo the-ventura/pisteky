@@ -1,5 +1,5 @@
 # !/bin/sh
-git checkout rl_score
+git checkout master
 git pull
 docker build -t pisteky .
 docker stop pisteky
