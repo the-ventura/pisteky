@@ -2,7 +2,7 @@ botName: Pisteky
 botVersion: 1.0
 botToken: my bot token here
 users:
-  - id:  '111'
+  '111':
     dislikes:
       - Minecraft
 games:
