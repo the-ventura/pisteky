@@ -1,6 +1,10 @@
 botName: Pisteky
 botVersion: 1.0
 botToken: my bot token here
+users:
+  '111':
+    dislikes:
+      - Minecraft
 games:
   - name: "Rainbow Six Siege"
     minimumPlayers: 1
