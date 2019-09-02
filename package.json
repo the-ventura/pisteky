@@ -34,6 +34,7 @@
     "js-yaml": "^3.12.0",
     "lodash": "^4.17.11",
     "node-opus": "^0.3.0",
+    "steamapi": "^2.0.7",
     "youtube-audio-stream": "^0.2.0",
     "youtube-playlist": "^1.0.1"
   },
