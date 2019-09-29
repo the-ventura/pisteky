@@ -1,3 +1,4 @@
 /config/default.yaml
 /dist
 /node_modules
+tmp/games-cache.json
