@@ -36,6 +36,7 @@
     "node-opus": "^0.3.0",
     "oversmash": "^1.5.2",
     "steamapi": "^2.0.7",
+    "weighted": "^0.3.0",
     "youtube-audio-stream": "^0.2.0",
     "youtube-playlist": "^1.0.1"
   },
