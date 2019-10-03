@@ -34,7 +34,7 @@
     "js-yaml": "^3.12.0",
     "lodash": "^4.17.11",
     "node-opus": "^0.3.0",
-    "oversmash": "^1.5.2",
+    "oversmash": "^1.5.3",
     "steamapi": "^2.0.7",
     "weighted": "^0.3.0",
     "youtube-audio-stream": "^0.2.0",
