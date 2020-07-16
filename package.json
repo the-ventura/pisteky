@@ -32,7 +32,7 @@
     "config": "^2.0.1",
     "discord.js": "^11.4.2",
     "js-yaml": "^3.12.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "node-opus": "^0.3.0",
     "oversmash": "^1.5.3",
     "steamapi": "^2.0.7",
